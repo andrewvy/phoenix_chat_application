@@ -1,0 +1,13 @@
+{application,chat,
+             [{registered,[]},
+              {description,"chat"},
+              {mod,{'Elixir.Chat',[]}},
+              {applications,[kernel,stdlib,elixir,phoenix,phoenix_html,cowboy,
+                             logger,postgrex,phoenix_ecto]},
+              {vsn,"0.0.4"},
+              {modules,['Elixir.Chat','Elixir.Chat.Endpoint',
+                        'Elixir.Chat.ErrorView','Elixir.Chat.LayoutView',
+                        'Elixir.Chat.PageController','Elixir.Chat.PageView',
+                        'Elixir.Chat.Repo','Elixir.Chat.RoomChannel',
+                        'Elixir.Chat.Router','Elixir.Chat.Router.Helpers',
+                        'Elixir.Chat.UserSocket','Elixir.Chat.Web']}]}.
