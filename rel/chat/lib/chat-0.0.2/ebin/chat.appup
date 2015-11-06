@@ -1,0 +1,11 @@
+{"0.0.2",
+ [{"0.0.1",
+   [{load_module,'Elixir.Chat.ErrorView'},
+    {load_module,'Elixir.Chat.LayoutView'},
+    {load_module,'Elixir.Chat.PageView'},
+    {load_module,'Elixir.Chat.RoomChannel'}]}],
+ [{"0.0.1",
+   [{load_module,'Elixir.Chat.ErrorView'},
+    {load_module,'Elixir.Chat.LayoutView'},
+    {load_module,'Elixir.Chat.PageView'},
+    {load_module,'Elixir.Chat.RoomChannel'}]}]}.

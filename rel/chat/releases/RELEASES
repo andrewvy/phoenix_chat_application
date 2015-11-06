@@ -1,4 +1,4 @@
-[{release,"chat","0.0.1","7.1",
+[{release,"chat","0.0.2","7.1",
           [{kernel,"4.1","./lib/kernel-4.1"},
            {stdlib,"2.6","./lib/stdlib-2.6"},
            {compiler,"6.0.1","./lib/compiler-6.0.1"},
@@ -18,7 +18,7 @@
            {phoenix,"1.0.1","./lib/phoenix-1.0.1"},
            {phoenix_html,"2.2.0","./lib/phoenix_html-2.2.0"},
            {phoenix_ecto,"1.2.0","./lib/phoenix_ecto-1.2.0"},
-           {chat,"0.0.1","./lib/chat-0.0.1"},
+           {chat,"0.0.2","./lib/chat-0.0.2"},
            {iex,"1.1.1","./lib/iex-1.1.1"},
            {sasl,"2.6","./lib/sasl-2.6"}],
           permanent}].
