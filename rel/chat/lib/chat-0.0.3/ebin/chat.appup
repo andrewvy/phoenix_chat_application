@@ -1,0 +1,9 @@
+{"0.0.3",
+ [{"0.0.2",
+   [{load_module,'Elixir.Chat.RoomChannel'},
+    {load_module,'Elixir.Chat.Router.Helpers'},
+    {load_module,'Elixir.Chat.UserSocket'}]}],
+ [{"0.0.2",
+   [{load_module,'Elixir.Chat.RoomChannel'},
+    {load_module,'Elixir.Chat.Router.Helpers'},
+    {load_module,'Elixir.Chat.UserSocket'}]}]}.
